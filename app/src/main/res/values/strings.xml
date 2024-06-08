@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado03</string>
+    <string name="error_data">Error al obtener los datos</string>
+    <string name="error_connection">Error de conexión</string>
+</resources>
